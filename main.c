@@ -3,7 +3,7 @@
 int main(void) {
     int a, b;
 
-    printf("Welcom to the Calculator!\n");
+    printf("Welcome to the Calculator!\n");
     // SOLUTION (Issue 4: typo in the welcome message)
     // Problem:  "Welcom" is missing the final "e".
     // Fix:      printf("Welcome to the Calculator!\n");
